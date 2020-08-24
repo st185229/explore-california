@@ -1,0 +1,5 @@
+total 0
+drwxrwxrwx 1 sthoma87993 sthoma87993 512 Aug 10 19:00 explorecalifornia.org
+-rwxrwxrwx 1 sthoma87993 sthoma87993   0 Aug 24 13:54 test1.txt
+-rwxrwxrwx 1 sthoma87993 sthoma87993   0 Aug 24 13:52 test2.txt
+-rwxrwxrwx 1 sthoma87993 sthoma87993   0 Aug 24 13:52 test3.txt
